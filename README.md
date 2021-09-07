@@ -124,5 +124,5 @@ the newLang folder have AILN.jj file where we write the syntax and the rule of t
 
 now you can build a interpreter and write your own languge I hope you find this project useful and if there is any bugs I will be very happay if you send me email to correct it
 
-email: $khalil.hennara.247@gmail.com$
+email: khalil.hennara.247@gmail.com
 
